@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+openai
+requests
+beautifulsoup4
+Pillow
+python-multipart
